@@ -1,0 +1,4 @@
+-telecharger dossier wordress dans wordpress.org
+-mettre dossier dans htdocs
+-Créez une base de données pour WordPress sur votre serveur Web, de sorte que MySQL ait tous les privilèges en accès et en modification,
+-Lancez le script d’installation en ouvrant l’URL de WordPress dans votre navigateur Web préféré. Suivez les instructions de l’installateur, et validez
