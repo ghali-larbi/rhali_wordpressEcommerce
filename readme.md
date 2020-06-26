@@ -1,4 +1,14 @@
--telecharger dossier wordress dans wordpress.org
--mettre dossier dans htdocs
--Créez une base de données pour WordPress sur votre serveur Web, de sorte que MySQL ait tous les privilèges en accès et en modification,
--Lancez le script d’installation en ouvrant l’URL de WordPress dans votre navigateur Web préféré. Suivez les instructions de l’installateur, et validez
+1- Copie dossier wordpress dans " C:/xampp/htdocs " 
+   
+ > 2- cree base donnée (executer le fichier :ecommerce.sql)
+ 
+ 
+ > 3- execute projet wordpress dans navigateur
+
+            lien: http://localhost/wordpress_ecommerce/
+ 
+ > 4- Login:
+ 
+            -Username : ghaliEco
+            
+            -Password : 123456
