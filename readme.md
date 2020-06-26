@@ -1,4 +1,4 @@
-1- Copie dossier wordpress dans " C:/xampp/htdocs " 
+ > 1- Copie dossier wordpress dans " C:/xampp/htdocs " 
    
  > 2- cree base donnée (executer le fichier :ecommerce.sql)
  
